@@ -1,0 +1,8 @@
+# Firebase
+ServiceAccountKey.json
+
+# JSON
+json/*.json
+
+# Others
+.idea/
